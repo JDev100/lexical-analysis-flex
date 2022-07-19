@@ -1,0 +1,56 @@
+Token                   Lexeme
+==============================
+
+Keyword:                int
+Identifier:             main
+Punctuation:            (
+Punctuation:            )
+Punctuation:            {
+
+Identifier:             for
+Punctuation:            (
+
+Keyword:                int
+Identifier:             i
+Assignment Operator:    =
+Integer:                22
+Punctuation:            ;
+Identifier:             i
+Relational Operator:    <=
+Integer:                100
+Punctuation:            ;
+Identifier:             i
+Assignment Operator:    =
+Identifier:             i
+Arithmetic Operator:    +
+Integer:                1
+Punctuation:            )
+Punctuation:            {
+
+
+Keyword:                while
+Punctuation:            (
+Identifier:             i
+Relational Operator:    ==
+Integer:                100
+Punctuation:            )
+Punctuation:            {
+
+Identifier:             cout
+Relational Operator:    <
+Relational Operator:    <
+String:                 "Hello World!"
+
+Punctuation:            ;
+Comment:                //print out
+
+Punctuation:            }
+
+Punctuation:            }
+
+
+Keyword:                return
+Integer:                0
+Punctuation:            ;
+
+Punctuation:            }
