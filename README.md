@@ -9,7 +9,7 @@ Steps to use:
 ```
  ./program
 ``` 
-4. If program does not work run commnd 
+4. If program does not work run command 
 ```
 "flex sample.l"
 ```
